@@ -1,0 +1,26 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="proj2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/proj2_jar</output-path>
+    <root id="archive" name="proj2.jar">
+      <element id="module-output" name="proj2" />
+      <element id="dir-copy" path="D:/AnaConda/DLLs" />
+      <element id="dir-copy" path="D:/AnaConda/Lib" />
+      <element id="dir-copy" path="D:/AnaConda/Lib/site-packages" />
+      <element id="extracted-dir" path="D:/AnaConda/Lib/site-packages/torchnet-0.0.4-py3.6.egg" path-in-jar="/" />
+      <element id="dir-copy" path="D:/AnaConda/Lib/site-packages/visdom-0.1.8.5-py3.6.egg" />
+      <element id="dir-copy" path="D:/AnaConda/Lib/site-packages/websocket_client-0.53.0-py3.6.egg" />
+      <element id="extracted-dir" path="D:/AnaConda/Lib/site-packages/torchfile-0.1.0-py3.6.egg" path-in-jar="/" />
+      <element id="dir-copy" path="D:/AnaConda/Lib/site-packages/object_detection-0.1-py3.6.egg" />
+      <element id="extracted-dir" path="D:/AnaConda/Lib/site-packages/slim-0.1-py3.6.egg" path-in-jar="/" />
+      <element id="dir-copy" path="D:/AnaConda/Lib/site-packages/win32" />
+      <element id="dir-copy" path="D:/AnaConda/Lib/site-packages/win32/lib" />
+      <element id="dir-copy" path="D:/AnaConda/Lib/site-packages/pythonwin" />
+      <element id="dir-copy" path="$USER_HOME$/.IntelliJIdea2019.1/system/python_stubs/467879755" />
+      <element id="dir-copy" path="$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      <element id="dir-copy" path="$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+      <element id="dir-copy" path="$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+      <element id="dir-copy" path="$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+      <element id="dir-copy" path="$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+    </root>
+  </artifact>
+</component>
